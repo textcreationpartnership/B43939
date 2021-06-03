@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The sea-mans doleful farewel; or, the Greenwich lovers mournful departure See here the pattern of true love, which absence cannot stain; and nothing shall his mind remove, till he returns again.  Tune of, State and ambition.</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B43939</idno><idno type="EEBO-CITATION">489265459</idno>
+  <idno type="VID">208714</idno>
+  <idno type="EEBO-PROQUEST">2240897563</idno>
+  
+            <idno type="OCLC"> 489265459</idno>
+            <idno type="OCLC">ocn 489265459</idno>
+            <idno type="STC">Wing S2187</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B43939)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 208714)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2957:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The sea-mans doleful farewel; or, the Greenwich lovers mournful departure See here the pattern of true love, which absence cannot stain; and nothing shall his mind remove, till he returns again.  Tune of, State and ambition.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Deacon at the Angel in Guilt-Spur-Street without Newgate,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1685-1688]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date range of publication suggested by Wing (2nd ed.).</note>
+                  <note>"This may be printed, R. P."</note>
+                  <note>Reproduction of original in: Beinecke Rare Book and Manuscript Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Ballads, English --  17th century.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="song">
+            <pb facs="tcp:208714:1"/>
+            <pb facs="tcp:208714:2"/>
+            <head>THE Sea-mans doleful Farewel; Or, The <hi>Greenwich</hi> Lovers mournful Departure.
+<q>
+                  <l>See here the Pattern of true Love,</l>
+                  <l>which abs<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nce cannot stain;</l>
+                  <l>And nothing shall his mind remove,</l>
+                  <l>till he returns again.</l>
+               </q>
+            </head>
+            <opener>Tune of, <hi>State and Ambition.</hi>
+            </opener>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license" subtype="permission_to_print">
+                        <p>
+                           <hi>This may be Printed,</hi>
+                        </p>
+                        <closer>
+                           <signed>R. <hi>P.</hi>
+                           </signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <figure>
+                  <figDesc>woodcut of two figures standing at port</figDesc>
+               </figure>
+               <figure>
+                  <figDesc>woodcut of two ships at sea</figDesc>
+               </figure>
+            </p>
+            <sp>
+               <speaker>Man.</speaker>
+               <l>FArewel my dearest Love, now must I leave thee▪</l>
+               <l>to the <hi>East-Indies</hi> my Course I must steer,</l>
+               <l>And when I think upon't lore it doth grie<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e me,</l>
+               <l>let nothing possess thee w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th doubt or with fear;</l>
+               <l>or i'le be Loyal unto thee for ever,</l>
+               <l>and, like to the Turtle, will constant remain,</l>
+               <l>Nothing but cruel Death our Love shall fever,</l>
+               <l>
+                  <hi>but we will be married when I come again.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Maid.</speaker>
+               <l>nd must we, by Fortune, thus strangely be parted?</l>
+               <l>what dost thou think will become then of me?</l>
+               <l>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ho must continue here quite broken-hearted,</l>
+               <l>let me thy true Love now venture with thee:</l>
+               <l>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ear not the dangers that wait on the Ocean,</l>
+               <l>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y troubles will greater be here on the Shore,</l>
+               <l>to thy true Love now grant what she doth mention,</l>
+               <l>
+                  <hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o else greatly fears she shall see thee no more.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Man.</speaker>
+               <l>With dangers on Seas thou art little acquainted,</l>
+               <l>for when the winds blow, and the billows do roar,</l>
+               <l>I fear th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e (my true Love) will greatly be dounted,</l>
+               <l>then let me intreat thee to stay on the Shore:</l>
+               <l>My heart in thy breast I will sure leave behind me,</l>
+               <l>and thou of my Constancy ne're shall complain,</l>
+               <l>A Pattern of true Love thou ever shalt find me,</l>
+               <l>
+                  <hi>and we will be married when I come again.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Maid.</speaker>
+               <l>How many, like thee, that are constant and loyal,</l>
+               <l>do venture to Sea, and do never return?</l>
+               <l>Then grant me my sute and make no more denyal,</l>
+               <l>for I in thine absence for ever shall mourn:</l>
+               <l>Oh like to a Sea-Boy let me be attired,</l>
+               <l>and talk not of leaving me here on the Shore,</l>
+               <l>Thy Company by me so much is desired,</l>
+               <l>
+                  <hi>that sure I should dye should I see thee no more.</hi>
+               </l>
+            </sp>
+            <p>
+               <figure>
+                  <figDesc>woodcut of woman with fan</figDesc>
+               </figure>
+               <figure>
+                  <figDesc>woodcut of ship at sea</figDesc>
+               </figure>
+            </p>
+            <sp>
+               <speaker>Man.</speaker>
+               <l>Cease, my true Love, and no more do perswade me,</l>
+               <l>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hy shouldst thou run hazards just now in thy prime?</l>
+               <l>Thy true Love for ever blind <hi>Cupid</hi> hath made me,</l>
+               <l>and then to the top-mast i'm sure cannot climb;</l>
+               <l>Thy Lilly white hand cannot handle the tackle,</l>
+               <l>the pitch and the tar on thy palms will remain,</l>
+               <l>Tho' now thou art fetter'd in <hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>upids</hi> strong shac<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>le,</l>
+               <l>
+                  <hi>yet we will be married when I come again.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Maid.</speaker>
+               <l>Go then, my trur Love, and Heave<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s great blessing</l>
+               <l>(where e're thou dost sail) still upon thee attend,</l>
+               <l>Love is a pleasure beyond all expressing,</l>
+               <l>and <hi>Neptune,</hi> my dearest, I pray thee defend:</l>
+               <l>For if in mine absence my Love should mi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>carry,</l>
+               <l>whom I for his Virtues do so much adore,</l>
+               <l>Then I of my life without doubt should be weary,</l>
+               <l>
+                  <hi>and pine to my grave should I see thee more.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Man.</speaker>
+               <l>Come be of good comfort and grieve not my dearest,</l>
+               <l>for I am as loth from my Love to depart,</l>
+               <l>Heaven can prevent all the dangers thou fearest,</l>
+               <l>then let not such jealousies trouble thy heart:</l>
+               <l>For should I behold all the Beauties in <hi>Venice.</hi>
+               </l>
+               <l>yet still to my Dear I would constant remain,</l>
+               <l>And nothing shall cause any difference between us,</l>
+               <l>
+                  <hi>but we will be married when I come again.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Maid.</speaker>
+               <l>I long for that hour and covet the minute</l>
+               <l>when <hi>Hymen</hi> my true love and me shall unite:</l>
+               <l>I surfeit to think of the pleasure there's in it,</l>
+               <l>'tis comfort by day, but far sweeter by night,</l>
+               <l>VVhen we like true lovers shall joyn our poor face</l>
+               <l>and find such delight as I ne'r knew before,</l>
+               <l>Tis for certain a bliss for to lye in embraces,</l>
+               <l>
+                  <hi>and then I will part with my true Love no more.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Man.</speaker>
+               <l>VVell now the wind serves, in despight I must leave thee,</l>
+               <l>but at our farewel let us change a sweet kiss:</l>
+               <l>Again I do swear I will never deceive thee,</l>
+               <l>and hope at the last to enjoy what I wish;</l>
+               <l>Still h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ping that Fortune will show me such favour</l>
+               <l>that I may be prosperous on the Salt Main,</l>
+               <l>My true love in sorrow I fear for to leave her,</l>
+               <l>
+                  <hi>but hope to enjoy her when I come again.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Maid.</speaker>
+               <l>Then down their poor cheeks the salt Tears they did trickle,</l>
+               <l>whole vollies of sighs from their breasts there did fly,</l>
+               <l>At last he prevailed by little and little</l>
+               <l>that he might be gone, and she could not deny:</l>
+               <l>But kisses at parting were wonderful plenty,</l>
+               <l>and needs it must be that it grieved them sore,</l>
+               <l>Tears they did drop till their eyes they were empty,</l>
+               <l>
+                  <hi>for fear she her true love should never see more.</hi>
+               </l>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for <hi>I. Deacon</hi> at the Angel in <hi>Guilt-spur-street</hi> without <hi>Newgate.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
